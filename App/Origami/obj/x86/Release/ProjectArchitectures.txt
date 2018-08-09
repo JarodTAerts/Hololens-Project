@@ -1,0 +1,4 @@
+C:\Users\JarodAerts\Desktop\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\JarodAerts\Desktop\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\JarodAerts\Desktop\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\JarodAerts\Desktop\App\Origami\Origami.csproj;x86

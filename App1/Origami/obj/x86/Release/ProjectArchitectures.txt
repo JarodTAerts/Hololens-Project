@@ -1,0 +1,6 @@
+C:\Users\JarodAerts\Desktop\App1\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\JarodAerts\Desktop\App1\GeneratedProjects\UWP\Unity.TextMeshPro.Tests\Unity.TextMeshPro.Tests.csproj;x86
+C:\Users\JarodAerts\Desktop\App1\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\JarodAerts\Desktop\App1\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\JarodAerts\Desktop\App1\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\JarodAerts\Desktop\App1\Origami\Origami.csproj;x86
